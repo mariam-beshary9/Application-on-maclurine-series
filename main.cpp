@@ -21,7 +21,6 @@ const double PI = 3.14159265358979323846;
 //convert to radians to degree
 double toRadians(double num)
 {
-    const double PI = 3.14159265358979323846;
     return num * PI / 180.0;
 }
 
